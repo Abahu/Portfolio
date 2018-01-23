@@ -1,0 +1,2 @@
+This was my first attempt at creating malware. The script opens up a commandline networking port. Any lines of information sent to this open port would be run literally on the infected computer. The script is the actual program running and simulated the base terminal OS. This meant that the user could do anything they wanted without realising anything was wrong.
+This script also disabled the user from seeing the hacked program and editing or deleting it. The idea, of course, was to make it so that the user of the infected computer didn't know anything was wrong.s
