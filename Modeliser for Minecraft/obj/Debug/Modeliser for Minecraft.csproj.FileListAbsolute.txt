@@ -1,0 +1,42 @@
+c:\users\andrew\documents\visual studio 2013\Projects\Modeliser for Minecraft\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.exe.config
+c:\users\andrew\documents\visual studio 2013\Projects\Modeliser for Minecraft\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.exe
+c:\users\andrew\documents\visual studio 2013\Projects\Modeliser for Minecraft\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\Modeliser for Minecraft\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2013\Projects\Modeliser for Minecraft\Modeliser for Minecraft\obj\Debug\Modeliser_for_Minecraft.Form1.resources
+c:\users\andrew\documents\visual studio 2013\Projects\Modeliser for Minecraft\Modeliser for Minecraft\obj\Debug\Modeliser_for_Minecraft.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2013\Projects\Modeliser for Minecraft\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2013\Projects\Modeliser for Minecraft\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.exe
+c:\users\andrew\documents\visual studio 2013\Projects\Modeliser for Minecraft\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.pdb
+H:\Stuff\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.exe.config
+H:\Stuff\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.exe
+H:\Stuff\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.exe
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Modeliser for Minecraft\obj\Debug\Modeliser_for_Minecraft.Globals.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Modeliser for Minecraft\obj\Debug\Modeliser_for_Minecraft.Properties.Resources.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.exe
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Modeliser for Minecraft\obj\Debug\Modeliser_for_Minecraft.Properties.Resources.resources
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Modeliser for Minecraft\obj\Debug\Modeliser_for_Minecraft.vertex.resources
+C:\Users\Figur\Desktop\Programs\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.exe.config
+C:\Users\Figur\Desktop\Programs\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.exe
+C:\Users\Figur\Desktop\Programs\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.pdb
+C:\Users\Figur\Desktop\Programs\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.exe
+C:\Users\Figur\Desktop\Programs\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.pdb
+C:\Users\Figur\Desktop\Programs\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.csprojResolveAssemblyReference.cache
+C:\Users\Figur\Desktop\Programs\Modeliser for Minecraft\obj\Debug\Modeliser_for_Minecraft.vertex.resources
+C:\Users\Figur\Desktop\Programs\Modeliser for Minecraft\obj\Debug\Modeliser_for_Minecraft.Properties.Resources.resources
+C:\Users\Figur\Desktop\Programs\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.csproj.GenerateResource.Cache
+C:\Users\Figur\Desktop\Mr V4\Modeliser for Minecraft\bin\Debug\Modeliser for Minecraft.exe.config
+C:\Users\Figur\Desktop\Mr V4\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.exe
+C:\Users\Figur\Desktop\Mr V4\Modeliser for Minecraft\obj\Debug\Modeliser for Minecraft.pdb
