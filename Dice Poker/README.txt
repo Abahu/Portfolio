@@ -1,0 +1,5 @@
+This is my last project for my Java class. We were supposed to make Yahtzee, but I didn't want to make that game. I asked my teacher if I could do something different, and he let me. I have here a virtual game of dice poker. You play it like the dice poker in the first Witcher game. Player 1 rolls, player 2 rolls, and then player 1 gets to choose which dice he/she wants to reroll. Player 2 then gets this option as well. After this round, the winner is announced. The scoring is mostly the same as in card poker.
+
+You can play this game offline or online with another player. It supports direct connections only, and has only been tested over LAN. In theory it can work over internet since it uses TCP, but I didn't test this. Feel free to look at the source or play it. It is pretty fun, in my opinion. My friend and I were having a blast in our class just playing this simple game.
+
+This game has a bug in it where after finishing a game the second player doesn't reset. This breaks the game since no player can roll anymore.
