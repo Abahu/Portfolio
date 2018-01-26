@@ -1,0 +1,1 @@
+This was written in Y86, not Y86_64. You can find a Y86 compiler online at https://xsznix.github.io/js-y86/

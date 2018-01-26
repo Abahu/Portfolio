@@ -1,0 +1,79 @@
+.pos 0
+init:
+    irmovl Stack, %ebp
+    irmovl Stack, %esp
+    call main
+    halt
+.align 4                #Shifts and aligns our data to be on 4 byte multiples
+array:
+    .long 10
+    .long 9
+    .long 8
+    .long 7
+    .long 6
+    .long 5
+    .long 4
+    .long 3
+    .long 2
+    .long 1
+    .long 0
+main:
+    pushl %ebp          #Prologue
+    rrmovl %esp, %ebp
+    irmovl 11, %ecx
+    irmovl array, %eax
+    pushl %ecx          #Placement is optimisation to aid pipelining
+    pushl %eax
+    call sort
+    rrmovl %ebp, %esp   #Epilogue
+    popl %ebp
+    ret
+sort:
+    pushl %ebp          #Prologue
+    rrmovl %esp, %ebp
+    pushl %ebx
+    pushl %esi
+    pushl %edi          #EOP
+    irmovl $1, %edx
+    mrmovl 12(%ebp), %ecx   #Param 2, size
+    mrmovl 8(%ebp), %eax    #Param 1, array*
+    subl %edx, %ecx
+   L1:
+    rrmovl %eax, %esi
+    irmovl $4, %edx
+    mrmovl (%eax), %ebx
+    addl %edx, %esi
+    pushl %ecx
+    pushl %eax
+   L2:
+    mrmovl (%esi), %edi
+    subl %edi, %ebx
+    jle else              #Cannot make the next moves conditional since there are two
+    rrmovl %edi, %ebx
+    rrmovl %esi, %eax
+    jmp endif1
+    else:
+    addl %edi, %ebx       #Add back the amount subbed from the cmpl
+    endif1:
+    irmovl $4, %edx
+    addl %edx, %esi
+    irmovl $1, %edx
+    subl %edx, %ecx
+    jne L2              #End of L2
+    rrmovl %eax, %esi       #Switch because beginning of loop needs %eax
+    popl %eax               #Restore old %eax
+    popl %ecx
+    irmovl $4, %edx
+    mrmovl (%eax), %edi     #Get original value at %eax
+    rmmovl %ebx, (%eax)     #Swap in memory
+    addl %edx, %eax
+    irmovl $1, %edx
+    rmmovl %edi, (%esi)
+    subl %edx, %ecx
+    jne L1              #End of L1
+    rrmovl %ebp, %esp   #Epilogue
+    popl %ebp
+    ret
+.pos 0x150
+Stack:
+    
